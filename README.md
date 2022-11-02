@@ -2,6 +2,12 @@
 
 This is a simple GitHub repository that shows how you can use GitHub Actions to run unittests on Python code.
 
+The workflow file is found here at [.github/workflows/py-unittest.yml](.github/workflows/py-unittest.yml), and it simply runs the command:
+```python
+python -m unittest *.py
+```
+
+# Tests Failing
 To see the failing test results, visit the [results of this job]( https://github.com/tblanarik/actions-ci-unittest/actions/runs/3380402115/jobs/5613143309).
 
 You'll notice that the test failed and the reason given is:
