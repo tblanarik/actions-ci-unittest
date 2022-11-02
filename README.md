@@ -7,7 +7,7 @@ The workflow file is found here at [.github/workflows/py-unittest.yml](.github/w
 python -m unittest *.py
 ```
 
-# Tests Failing
+# Tests failing
 
 [![Test My Python](https://github.com/tblanarik/actions-ci-unittest/actions/workflows/py-unittest.yml/badge.svg)](https://github.com/tblanarik/actions-ci-unittest/actions/workflows/py-unittest.yml)
 
