@@ -27,6 +27,9 @@ AssertionError: 4 != 5
 
 You can easily fix the failing test with this [Pull Request- "Fix Failing Unittest"](https://github.com/tblanarik/actions-ci-unittest/pull/1)
 
+![CleanShot 2022-11-02 at 12 57 28](https://user-images.githubusercontent.com/1554630/199590685-eba1fb8d-5bba-4710-bcb9-2661f55af903.png)
+
+
 And sure enough, the tests pass and the [GitHub Actions workflow shows green](https://github.com/tblanarik/actions-ci-unittest/actions/runs/3380427284/jobs/5613197169) 🟢: 
 
 ![CleanShot 2022-11-02 at 12 14 40](https://user-images.githubusercontent.com/1554630/199580889-96618524-3b56-439e-80c6-9c084982dc75.png)
