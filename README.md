@@ -1,4 +1,4 @@
-# Python Actions Unittest
+# Python Unittests with GitHub Actions
 
 This is a simple GitHub repository that shows how you can use GitHub Actions to run unittests on Python code.
 
