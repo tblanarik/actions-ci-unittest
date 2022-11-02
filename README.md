@@ -8,6 +8,9 @@ python -m unittest *.py
 ```
 
 # Tests Failing
+
+[![Test My Python](https://github.com/tblanarik/actions-ci-unittest/actions/workflows/py-unittest.yml/badge.svg)](https://github.com/tblanarik/actions-ci-unittest/actions/workflows/py-unittest.yml)
+
 To see the failing test results, visit the [results of this job]( https://github.com/tblanarik/actions-ci-unittest/actions/runs/3380402115/jobs/5613143309).
 
 You'll notice that the test failed and the reason given is:
@@ -19,6 +22,8 @@ AssertionError: 4 != 5
 ![CleanShot 2022-11-02 at 12 09 50](https://user-images.githubusercontent.com/1554630/199580169-3d155f87-6492-4f70-afd1-3147f10384c7.png)
 
 # Fix the failing test
+
+[![Test My Python](https://github.com/tblanarik/actions-ci-unittest/actions/workflows/py-unittest.yml/badge.svg?branch=fix-failing-unittest)](https://github.com/tblanarik/actions-ci-unittest/actions/workflows/py-unittest.yml)
 
 You can easily fix the failing test with this [Pull Request- "Fix Failing Unittest"](https://github.com/tblanarik/actions-ci-unittest/pull/1)
 
