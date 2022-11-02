@@ -2,7 +2,7 @@
 
 This is a simple GitHub repository that shows how you can use GitHub Actions to run unittests on Python code.
 
-The workflow file is found here at [.github/workflows/py-unittest.yml](.github/workflows/py-unittest.yml), and it simply runs the command:
+The configuration for the Actions workflow is found here at [.github/workflows/py-unittest.yml](.github/workflows/py-unittest.yml), and it simply runs the command:
 https://github.com/tblanarik/actions-ci-unittest/blob/216a04205e550ac8f3c61102580d507880fe84ca/.github/workflows/py-unittest.yml#L26-L27
 
 One of the tests to be run has a failure due to some bad math 😏: 
