@@ -7,6 +7,10 @@ The workflow file is found here at [.github/workflows/py-unittest.yml](.github/w
 python -m unittest *.py
 ```
 
+One of the tests to be run has a failure due to some bad math 😏: 
+https://github.com/tblanarik/actions-ci-unittest/blob/52c46afef85641037b3d6027c89fbc757a5d4d4b/my_test.py#L19-L21
+
+
 # Tests failing
 
 [![Test My Python](https://github.com/tblanarik/actions-ci-unittest/actions/workflows/py-unittest.yml/badge.svg)](https://github.com/tblanarik/actions-ci-unittest/actions/workflows/py-unittest.yml)
