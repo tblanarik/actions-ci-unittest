@@ -18,7 +18,7 @@ class TestStringMethods(unittest.TestCase):
     
     def test_bad_math(self):
         # This test will fail because 2+2 = 4
-        self.assertEqual(2+2, 5)
+        self.assertEqual(2+2, 4)
 
 if __name__ == '__main__':
     unittest.main()
