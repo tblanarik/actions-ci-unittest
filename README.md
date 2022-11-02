@@ -11,3 +11,7 @@ AssertionError: 4 != 5
 ```
 
 ![CleanShot 2022-11-02 at 12 09 50](https://user-images.githubusercontent.com/1554630/199580169-3d155f87-6492-4f70-afd1-3147f10384c7.png)
+
+# Fix the failing test
+
+You can easily fix the failing test with this [Pull Request- "Fix Failing Unittest"](https://github.com/tblanarik/actions-ci-unittest/pull/1)
